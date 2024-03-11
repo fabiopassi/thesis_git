@@ -1,2 +1,2 @@
 # thesis_git
-Scripts employed in the master thesis
+Collection of some of the scripts for my master thesis
